@@ -17,6 +17,11 @@ The objective was to:
 - Uses methods for each operation
 - Loop continues until the user exits
 
+  ## 📷 Screenshot
+
+![Calculator Screenshot]"D:\Java Internship\screenshot\Screenshot (370).png"
+
+
 ## 🚀 How to Run
 
 ```bash
