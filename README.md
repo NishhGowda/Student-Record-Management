@@ -1,2 +1,15 @@
-# Java-Calculator
-A simple Java console calculator using Scanner, Switch and loops.
+# Java Console Calculator 🧮
+
+A simple Java console-based calculator to perform:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## 🚀 How to Run
+
+```bash
+javac Calculator.java
+java Calculator
+
